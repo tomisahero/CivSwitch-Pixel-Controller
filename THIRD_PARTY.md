@@ -1,0 +1,1 @@
+The included `app/src/main/assets/payload.txt` is copied verbatim from `RecurCIV-v1.1.0-source.zip` supplied in the conversation. Consult the original project for copyright and licensing requirements before redistribution. The remainder of this Android wrapper was created for this request.
